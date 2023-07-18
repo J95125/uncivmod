@@ -1,25 +1,19 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Astral Shrine",
+		"replaces": "Great Colosseum",
+		"uniqueTo": "The Stelarate",
+		"cost": 200,
+		"happiness": 5,
+		"culture": 4,
+		"science": 7,
+	"maintenance": 2,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Shrine",
+		"faith": 8,
+		"requiredTech": "Construction"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		
 	}
 ]
