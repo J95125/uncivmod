@@ -20,7 +20,7 @@
 		
 		"tradeRequest": "This offer is one in a lifetime, my friend",
 
-		"outerColor": [0,135,18],
+		"outerColor": [48,73,112],
 		"innerColor": [255,255,255],
 		"nationIcon": "noun-star-3625490",
 		"uniques" : ["[+2 faith,+3 science ] of every [plantation, farm, camp,] after researching [astronomy]"],
